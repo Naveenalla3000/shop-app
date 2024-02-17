@@ -1,4 +1,4 @@
-<img width="585" alt="Screenshot 2024-02-17 at 10 58 09 PM" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/d9b23cb6-fd3b-4d0a-b6ba-56133b090c37"># Shopping application
+# Shopping application
 
 A new Flutter project.
 
