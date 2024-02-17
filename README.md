@@ -1,4 +1,4 @@
-# Shopping application
+<img width="585" alt="Screenshot 2024-02-17 at 10 58 09 PM" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/d9b23cb6-fd3b-4d0a-b6ba-56133b090c37"># Shopping application
 
 A new Flutter project.
 
@@ -13,13 +13,9 @@ This project is a starting point for a Flutter application.
 - Isolation navigation
 - local and global state management
 
-
-### Design of the application
-<img width="946" alt="shop_app_design" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/c5faadad-4234-47cb-b794-7eddc28a4d78">
-
 ### Design of the application
 <p align="center">
-  <img alt="Screenshot 1" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/99b457b5-7802-4c71-b3d3-d6024e7285b3" width="32%">
-  <img alt="Screenshot 2" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/4a9a6fd5-6da6-4f53-acab-13d91daa7a80" width="32%">
-  <img alt="Screenshot 3" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/b9c852f1-e0bb-4461-8287-4fd9c4a1e4b3" width="32%">
+  <img alt="Screenshot 1" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/a4b0465e-19a1-4a0e-a0dc-c2857151b8b2" width="32%">
+  <img alt="Screenshot 2" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/aaf83b72-c752-4026-a44a-4d3b10ee9aea" width="32%">
+  <img alt="Screenshot 3" src="https://github.com/Naveenalla3000/shop-app/assets/111577927/012d925f-e49e-41b5-8401-316320f4306c" width="32%">
 </p>
